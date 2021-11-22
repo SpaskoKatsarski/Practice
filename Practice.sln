@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumEvenAndOddNums", "SumEve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskFromFriend", "TaskFromFriend\TaskFromFriend.csproj", "{854F83C2-59DD-4645-8C87-AC9B3D498778}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityCodeDoor", "SecurityCodeDoor\SecurityCodeDoor.csproj", "{B23B982E-0A12-4DE9-B2CF-1EDFB0B3D1BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecurityCodeDoor", "SecurityCodeDoor\SecurityCodeDoor.csproj", "{B23B982E-0A12-4DE9-B2CF-1EDFB0B3D1BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomPresentGifterSelector", "RandomPresentGifterSelector\RandomPresentGifterSelector.csproj", "{1E1B154B-C563-4BC9-A0FC-49F41F9776E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B23B982E-0A12-4DE9-B2CF-1EDFB0B3D1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B23B982E-0A12-4DE9-B2CF-1EDFB0B3D1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B23B982E-0A12-4DE9-B2CF-1EDFB0B3D1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1B154B-C563-4BC9-A0FC-49F41F9776E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1B154B-C563-4BC9-A0FC-49F41F9776E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1B154B-C563-4BC9-A0FC-49F41F9776E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1B154B-C563-4BC9-A0FC-49F41F9776E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
