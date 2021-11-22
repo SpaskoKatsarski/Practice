@@ -8,19 +8,30 @@ namespace RandomPresentGifterSelector
         static void Main(string[] args)
         {
             List<int> list = new List<int>();
+            Random rnd = new Random();
+
+            bool flag = false;
 
             for (int i = 1; i < 28; i++)
             {
-                Console.WriteLine("Please enter a number:");
+                if (!flag)
+                {
+                    Console.WriteLine("Please enter a number:");
+                }
+                else
+                {
+                    Console.WriteLine("Try again:");
+                }
 
                 int input = int.Parse(Console.ReadLine());
-                Random rnd = new Random();
 
                 int number1 = rnd.Next(1, 27);
 
-                if (list) // Make that so if a number from the randoms has been already used, the loop breaks and generates another number.
+                if (list.Contains(number1)) 
                 {
-                    break;
+                    flag = true;
+                    i -= 1;
+                    continue;
                 }
 
                 Console.WriteLine($"Number {input} will gift a present to number {number1}");
