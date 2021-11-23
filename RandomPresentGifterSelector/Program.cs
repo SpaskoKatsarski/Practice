@@ -23,11 +23,13 @@ namespace RandomPresentGifterSelector
                     Console.WriteLine("Try again:");
                 }
 
+                flag = false;
+
                 int input = int.Parse(Console.ReadLine());
 
                 int number1 = rnd.Next(1, 27);
 
-                if (list.Contains(number1)) 
+                if (list.Contains(number1) || number1 == input) 
                 {
                     flag = true;
                     i -= 1;
