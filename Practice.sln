@@ -15,15 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecurityCodeDoor", "Securit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomPresentGifterSelector", "RandomPresentGifterSelector\RandomPresentGifterSelector.csproj", "{1E1B154B-C563-4BC9-A0FC-49F41F9776E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewPracticeProject", "NewPracticeProject\NewPracticeProject.csproj", "{93A924C3-F961-407E-969E-609B1C7CBC85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewPracticeProject", "NewPracticeProject\NewPracticeProject.csproj", "{93A924C3-F961-407E-969E-609B1C7CBC85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1Clock", "Task1Clock\Task1Clock.csproj", "{5E4CA276-E070-43CB-84FD-50C79763FA31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task1Clock", "Task1Clock\Task1Clock.csproj", "{5E4CA276-E070-43CB-84FD-50C79763FA31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2MultiplicationTable", "Task2MultiplicationTable\Task2MultiplicationTable.csproj", "{3852E646-8817-4C8D-891E-3520F772D542}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task2MultiplicationTable", "Task2MultiplicationTable\Task2MultiplicationTable.csproj", "{3852E646-8817-4C8D-891E-3520F772D542}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3Combinations", "Task3Combinations\Task3Combinations.csproj", "{EC6B3F08-E585-4196-8A9C-2337B77BC6AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3Combinations", "Task3Combinations\Task3Combinations.csproj", "{EC6B3F08-E585-4196-8A9C-2337B77BC6AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4SumOfTwoNumbers", "Task4SumOfTwoNumbers\Task4SumOfTwoNumbers.csproj", "{E5B64F6C-6685-481E-AA23-654EECBC4D6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task4SumOfTwoNumbers", "Task4SumOfTwoNumbers\Task4SumOfTwoNumbers.csproj", "{E5B64F6C-6685-481E-AA23-654EECBC4D6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T.TimeAfter30Mins", "T.TimeAfter30Mins\T.TimeAfter30Mins.csproj", "{EEB09D91-6849-4E90-AF71-C854932B9666}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{E5B64F6C-6685-481E-AA23-654EECBC4D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5B64F6C-6685-481E-AA23-654EECBC4D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5B64F6C-6685-481E-AA23-654EECBC4D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB09D91-6849-4E90-AF71-C854932B9666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB09D91-6849-4E90-AF71-C854932B9666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB09D91-6849-4E90-AF71-C854932B9666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB09D91-6849-4E90-AF71-C854932B9666}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
