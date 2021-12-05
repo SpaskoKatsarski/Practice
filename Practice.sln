@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task4SumOfTwoNumbers", "Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T.TimeAfter30Mins", "T.TimeAfter30Mins\T.TimeAfter30Mins.csproj", "{EEB09D91-6849-4E90-AF71-C854932B9666}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfFirstFiveOddNumbers", "SumOfFirstFiveOddNumbers\SumOfFirstFiveOddNumbers.csproj", "{D77B9B69-CE5F-43AC-B1A7-0B1B880491DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{EEB09D91-6849-4E90-AF71-C854932B9666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEB09D91-6849-4E90-AF71-C854932B9666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEB09D91-6849-4E90-AF71-C854932B9666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77B9B69-CE5F-43AC-B1A7-0B1B880491DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77B9B69-CE5F-43AC-B1A7-0B1B880491DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77B9B69-CE5F-43AC-B1A7-0B1B880491DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77B9B69-CE5F-43AC-B1A7-0B1B880491DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
