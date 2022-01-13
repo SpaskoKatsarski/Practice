@@ -8,7 +8,7 @@ namespace PasswordBackwards
         static void Main(string[] args)
         {
             string username = Console.ReadLine();
-            string password = new string(username.ToCharArray().Reverse().ToArray());
+            string password = new string(username.ToCharArray().Reverse().ToString());
 
             string input = Console.ReadLine();
 
