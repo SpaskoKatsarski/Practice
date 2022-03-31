@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordBackwards", "Passwo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplyingTask", "MultiplyingTask\MultiplyingTask.csproj", "{2C3119C2-6CAA-4318-BD43-5D69DFE53A61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParamsExampleInMethod", "ParamsExampleInMethod\ParamsExampleInMethod.csproj", "{D4DE3E5B-40B7-4B89-A01F-FE9487F7B2D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParamsExampleInMethod", "ParamsExampleInMethod\ParamsExampleInMethod.csproj", "{D4DE3E5B-40B7-4B89-A01F-FE9487F7B2D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowingStuffToFriend", "ShowingStuffToFriend\ShowingStuffToFriend.csproj", "{F18F1E32-0A59-41A4-BC15-74B687198F65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{D4DE3E5B-40B7-4B89-A01F-FE9487F7B2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4DE3E5B-40B7-4B89-A01F-FE9487F7B2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4DE3E5B-40B7-4B89-A01F-FE9487F7B2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18F1E32-0A59-41A4-BC15-74B687198F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18F1E32-0A59-41A4-BC15-74B687198F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18F1E32-0A59-41A4-BC15-74B687198F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18F1E32-0A59-41A4-BC15-74B687198F65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
