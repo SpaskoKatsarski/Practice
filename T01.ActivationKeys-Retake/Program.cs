@@ -57,7 +57,7 @@ namespace T01.ActivationKeys_Retake
         /// <summary>
         ///  Flips the case of the given string to upper case or lower case, depending on the given command;
         /// </summary>
-        static string FlipCase(string str, int startIndex, int endIndex, string flipCase)
+        public static string FlipCase(string str, int startIndex, int endIndex, string flipCase)
         {
             string replacement = str.Substring(startIndex, endIndex - startIndex);
 
