@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplyingTask", "Multiply
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParamsExampleInMethod", "ParamsExampleInMethod\ParamsExampleInMethod.csproj", "{D4DE3E5B-40B7-4B89-A01F-FE9487F7B2D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowingStuffToFriend", "ShowingStuffToFriend\ShowingStuffToFriend.csproj", "{F18F1E32-0A59-41A4-BC15-74B687198F65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShowingStuffToFriend", "ShowingStuffToFriend\ShowingStuffToFriend.csproj", "{F18F1E32-0A59-41A4-BC15-74B687198F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01.ActivationKeys-Retake", "T01.ActivationKeys-Retake\T01.ActivationKeys-Retake.csproj", "{307734CC-A667-48E3-A4B1-129DB3B91AD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{F18F1E32-0A59-41A4-BC15-74B687198F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F18F1E32-0A59-41A4-BC15-74B687198F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F18F1E32-0A59-41A4-BC15-74B687198F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307734CC-A667-48E3-A4B1-129DB3B91AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307734CC-A667-48E3-A4B1-129DB3B91AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307734CC-A667-48E3-A4B1-129DB3B91AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307734CC-A667-48E3-A4B1-129DB3B91AD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
